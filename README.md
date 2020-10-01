@@ -1,4 +1,4 @@
-# calculator
+# python-calculator
 a python calculator by debashisnandy / calculator
 
 num1 = int(input("Enter the first number"))
